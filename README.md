@@ -33,7 +33,7 @@ We will be using MYSQL workbench for the analysis,
 
 **ERD Diagram**
 
-<p align="center"><img src="https://github.com/PranjilMartin/RSVP-Movies/RSVP ERD.png"></p>
+![Image](https://github.com/user-attachments/assets/75f86506-d4b1-42ad-92e3-ececabcdcce0)
 
 
 ## 💻 **Technologies Used**
